@@ -1,0 +1,18 @@
+Instructions for Repository Setup
+1. Make a new repository on Github
+ - Navigate to the main page of the repository
+ - Click 'Use this template'
+ - Select 'Create a new repository'
+ - Make sure to include README.md
+2. Clone repository
+ - Copy SSH code
+ - In 'repos' type 'git clone (insert SSH from Github)
+3. Install webpack to node_modules
+ - In the project root folder, ' npm init -y '
+ - In the project root folder, ' npm install webpack webpack-cli --save-dev '
+4. Set up webpack plug-in
+ - In the project root folder, ' npm install --save-dev html-webpack-plugin '
+5. Open new tab in Console
+- Run 'npm run build' in one tab, this tab will now automatically update the build
+- Use the second tab for navigating files
+
