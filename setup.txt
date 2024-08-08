@@ -15,6 +15,8 @@ Instructions for Repository Setup
 5. Open new tab in Console
 - Run 'npm run build' in one tab, this tab will now automatically update the build
 - Use the second tab for navigating files
+6. Open index.html from dist
+- In dist, ' open -a "Google Chrome" index.html '
 
 Instructions for hosting webpage through GitHub pages
 1. Remove 'dist' from .gitignore
