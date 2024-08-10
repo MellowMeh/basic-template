@@ -78,7 +78,8 @@ input:focus {
 body {
   background-color: var(--color-base-bg);
   color: var(--color-base-text);
-  padding: 10px;
+  height: 100svh;
+  width: 100svw;
 }
 
 .theme-name::after {
