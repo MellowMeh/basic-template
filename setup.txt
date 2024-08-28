@@ -15,6 +15,9 @@ Instructions for Repository Setup
 5. Open new tab in Console
 - Run 'npm run build' in one tab, this tab will now automatically update the build
 - Use the second tab for navigating files
+6. Setup Jest for Test Driven Development
+- In the project root folder, ' npm install --save-dev jest '
+- In the project root folder ' npm install --save-dev babel-jest @babel/core @babel/preset-env
 6. Open index.html from dist
 - In dist, ' open -a "Google Chrome" index.html '
 
